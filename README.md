@@ -27,7 +27,7 @@ I’m currently studying **Android Jetpack Comopse** and **Kotlin Symbol Process
 
 
 <br>I like and seek to readable code. To do so, I'm always thinking and studying.<br>
-I want to develop **clean code.**<br><br>
+I want to develop **clean code!**<br><br>
 
 
 ##
