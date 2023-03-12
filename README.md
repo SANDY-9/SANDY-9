@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm SANDY.
+
+I'm currently Android Developer. 
+My main tech stack is android. So, I'm good at Kotlin and Java. 
+In addition, I have knowledge of Python, JavaScript, Java Spring and SQL.
