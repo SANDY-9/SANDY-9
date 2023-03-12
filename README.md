@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 
 # I'm SANDY.
 
-I'm currently Android Developer. 
-My main tech stack is android. So, I'm good at Kotlin and Java. 
-In addition, I have knowledge of Python, JavaScript, Java Spring and SQL.
+
+<br>I'm currently **Android Developer.**<br>
+My main tech stack is android. So, I'm good at **Kotlin** and **Java**. <br>
+In addition, I have knowledge of Python, JavaScript, HTML, Java Spring and SQL.
+
+
+I’m currently studying **Android Jetpack Comopse** and **Kotlin Symbol Processing** to improve my skills.
+
+
+<br>I like and seek to readable code. To do so, I'm always thinking and studying.<br>
+I want to develop **clean code.**<br><br>
+
+
+##
