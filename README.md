@@ -25,10 +25,11 @@ In addition, I have knowledge of Python, JavaScript, HTML, Java Spring and SQL.
 
 
 I’m currently studying to improve my skills.
+I'm interested in how to make apps better and more stable. 
 
 
 <br>I like and seek to readable code. To do so, I'm always thinking and studying.<br>
-I want to develop **clean code!**<br><br>
+I want to develop **clean code!**, to be a **good** developer.<br><br>
 
 
 
