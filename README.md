@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>I'm currently **Android Developer.**<br>
 My main tech stack is android. So, I'm good at **Kotlin** and **Java**. <br>
-In addition, I have knowledge of Python, JavaScript, HTML, Java Spring and SQL.
+In addition, I have skills of Python, JavaScript, HTML, Java Spring and SQL.
 
 
 I’m currently studying to improve my skills.
