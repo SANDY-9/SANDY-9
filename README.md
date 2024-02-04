@@ -27,6 +27,6 @@ I'm interested in how to make apps better and more stable.
 I want to develop **using a lot of code!**, to be a **good** developer.<br><br>
 
 
-### tech stack
+### Tech stack
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-e51f24?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/> </br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDY-9&layout=compact&theme=vue)
