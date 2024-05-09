@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm SANDY. <a href="nnal0256@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://sandy9.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://reflective-goose-443.notion.site/Leem-Sun-Mi-SANDY-a9953570abe5440c8b5120e2af8a116b" target="_blank"><img src="https://img.shields.io/badge/Resume-006600?style=flat-square&logo=notion&logoColor=white"/></a>
+# I'm SANDY. <a href="nnal0256@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://sandy9.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://reflective-goose-443.notion.site/Leem-Sun-Mi-44342f4a2a0a418bac0b44d2220038d3" target="_blank"><img src="https://img.shields.io/badge/Resume-006600?style=flat-square&logo=notion&logoColor=white"/></a>
 
 
 <br>I'm **Android Junior Developer.**<br>
